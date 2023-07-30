@@ -1,3 +1,10 @@
+For a moment, a `$PRIVATE_KEY` in my `.env` file is cool.
+So long as I don't expose the `.env` file.
+But for real money, I won't do that. I will use `--interactive` or a keystore file with  a password once foundry adds that.
+
+
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
